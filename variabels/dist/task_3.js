@@ -15,4 +15,5 @@ function getRole(role) {
             return `Welcome Guset mode`;
     }
 }
-console.log(getRole(Role.Guest));
+console.log(getRole(Role.Admin));
+//# sourceMappingURL=task_3.js.map

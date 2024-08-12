@@ -16,3 +16,4 @@ function check(bool) {
         return "already false value";
     }
 }
+//# sourceMappingURL=task_1.js.map

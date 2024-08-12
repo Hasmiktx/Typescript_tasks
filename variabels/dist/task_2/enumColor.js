@@ -18,3 +18,4 @@ function getColor(color) {
     }
 }
 console.log(getColor(Color.Green));
+//# sourceMappingURL=enumColor.js.map

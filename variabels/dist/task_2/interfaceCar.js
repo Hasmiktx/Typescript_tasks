@@ -11,3 +11,4 @@ class DescribeCar {
 }
 const myCar = new DescribeCar("Toyota", "Camry", 2020);
 console.log(myCar.decscribe());
+//# sourceMappingURL=interfaceCar.js.map

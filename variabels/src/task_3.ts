@@ -17,4 +17,4 @@ function getRole(role:Role):string{
 }
 
 
-console.log(getRole(Role.Guest))
+console.log(getRole(Role.Admin))

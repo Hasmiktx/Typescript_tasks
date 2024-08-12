@@ -30,3 +30,4 @@ function getData() {
     });
 }
 getData();
+//# sourceMappingURL=task_4.js.map
